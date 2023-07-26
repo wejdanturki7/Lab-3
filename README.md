@@ -5,7 +5,7 @@
 Create a dart file that contains the following functions :
 
 ## The first function:
-Write a function `charactersNumber` that receives a `String` value. The function *returns* the number of characters and spaces in that received value.
+Write a function `deleteLastCharacter` that receives `String`. The function deletes the last character of the text and *returns* the text value after deletion.
 
 #
 
